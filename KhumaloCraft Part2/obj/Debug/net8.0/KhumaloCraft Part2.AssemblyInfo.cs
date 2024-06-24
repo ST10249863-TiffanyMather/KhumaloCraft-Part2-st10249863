@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KhumaloCraft Part2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1244c7be329a1642e32d9062f5e2a057394fdb1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bafe4d6cbf8cbd584a4a595553ac12cb67b0cb8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("KhumaloCraft Part2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KhumaloCraft Part2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

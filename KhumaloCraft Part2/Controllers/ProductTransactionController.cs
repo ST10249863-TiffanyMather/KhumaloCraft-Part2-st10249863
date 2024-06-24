@@ -23,7 +23,7 @@ namespace KhumaloCraft_Part2.Controllers
         }
 
         // GET: ProductTransaction
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string status)
         {
             var userEmail = User.FindFirstValue(ClaimTypes.Email);
 
@@ -33,12 +33,22 @@ namespace KhumaloCraft_Part2.Controllers
                 return NotFound("User not found.");
             }
 
-            var applicationDbContext = _context.ProductTransaction
-                .Include(p => p.Product)
-                .Include(p => p.Transaction)
-                .Where(p => p.Transaction.UserId == user.UserId);
+            IQueryable<ProductTransaction> transactions = _context.ProductTransaction
+                .Include(pt => pt.Transaction)
+                    .ThenInclude(t => t.User)
+                .Include(pt => pt.Product)
+                .Where(pt => pt.Transaction.UserId == user.UserId);
 
-            return View(await applicationDbContext.ToListAsync());
+            if (!string.IsNullOrEmpty(status) && status != "All")
+            {
+                transactions = transactions.Where(pt => pt.Transaction.TransactionStatus == status);
+            }
+
+            var transactionList = await transactions.ToListAsync();
+
+            ViewBag.SelectedStatus = status;
+
+            return View(transactionList);
         }
 
 

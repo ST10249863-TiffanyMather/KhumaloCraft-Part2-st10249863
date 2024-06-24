@@ -20,11 +20,18 @@ namespace KhumaloCraft_Part2.Controllers
         }
 
         // GET: MyWork
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            var products = await _context.Product.ToListAsync();
-            return View(products);
+            var products = from p in _context.Product select p;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                products = products.Where(p => p.ProductName.Contains(searchString));
+            }
+
+            return View(await products.ToListAsync());
         }
+
 
         // GET: MyWork/PlaceOrder
         public async Task<IActionResult> PlaceOrder(int? id)

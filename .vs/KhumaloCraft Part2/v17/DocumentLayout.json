@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|c:\\users\\tiffany\\source\\repos\\khumalocraft part2\\khumalocraft part2\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|c:\\users\\tiffany\\source\\repos\\khumalocraft part2\\khumalocraft part2\\views\\mywork\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|solutionrelative:khumalocraft part2\\views\\mywork\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|c:\\users\\tiffany\\source\\repos\\khumalocraft part2\\khumalocraft part2\\views\\producttransaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|solutionrelative:khumalocraft part2\\views\\producttransaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|c:\\users\\tiffany\\source\\repos\\khumalocraft part2\\khumalocraft part2\\controllers\\producttransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|solutionrelative:khumalocraft part2\\controllers\\producttransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|c:\\users\\tiffany\\source\\repos\\khumalocraft part2\\khumalocraft part2\\controllers\\myworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|solutionrelative:khumalocraft part2\\controllers\\myworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\khumalocraft part2\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|solutionrelative:khumalocraft part2\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|c:\\users\\tiffany\\source\\repos\\khumalocraft part2\\khumalocraft part2\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|solutionrelative:khumalocraft part2\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|c:\\users\\tiffany\\source\\repos\\khumalocraft part2\\khumalocraft part2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|solutionrelative:khumalocraft part2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\khumalocraft part2\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -45,10 +69,6 @@
       "RelativeMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|solutionrelative:khumalocraft part2\\khumalocraft part2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\khumalocraft part2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|solutionrelative:khumalocraft part2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\khumalocraft part2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94EBEE3F-8C8B-4038-B723-F4B57D8899DB}|KhumaloCraft Part2\\KhumaloCraft Part2.csproj|solutionrelative:khumalocraft part2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -60,7 +80,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,37 +88,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Views\\ProductTransaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft Part2\\Views\\ProductTransaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Views\\ProductTransaction\\Index.cshtml",
+              "RelativeToolTip": "KhumaloCraft Part2\\Views\\ProductTransaction\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAADwv0YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:12:58.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Models\\User.cs",
-              "RelativeDocumentMoniker": "KhumaloCraft Part2\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Models\\User.cs",
-              "RelativeToolTip": "KhumaloCraft Part2\\Models\\User.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Title": "ProductTransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Controllers\\ProductTransactionController.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft Part2\\Controllers\\ProductTransactionController.cs",
+              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Controllers\\ProductTransactionController.cs",
+              "RelativeToolTip": "KhumaloCraft Part2\\Controllers\\ProductTransactionController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvzMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T17:09:55.298Z"
+              "WhenOpened": "2024-06-24T17:12:13.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dbo.User [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/khumalocraftserver_st10249863.database.windows.net/aspnet_KhumaloCraft_Part2_25b0f46d_c32c_4335_b035_7ceaeabcf780/khumalocraftserver_admin/SqlTable/dbo.User.sql",
-              "ToolTip": "dbo.User [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-27T17:04:21.128Z"
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Views\\MyWork\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhumaloCraft Part2\\Views\\MyWork\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Views\\MyWork\\Index.cshtml",
+              "RelativeToolTip": "KhumaloCraft Part2\\Views\\MyWork\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:11:49.469Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "dbo.AspNetUsers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/khumalocraftserver_st10249863.database.windows.net/aspnet_KhumaloCraft_Part2_25b0f46d_c32c_4335_b035_7ceaeabcf780/khumalocraftserver_admin/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "dbo.AspNetUsers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-27T17:03:58.571Z"
+              "DocumentIndex": 3,
+              "Title": "MyWorkController.cs",
+              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Controllers\\MyWorkController.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft Part2\\Controllers\\MyWorkController.cs",
+              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Controllers\\MyWorkController.cs",
+              "RelativeToolTip": "KhumaloCraft Part2\\Controllers\\MyWorkController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:11:16.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "AboutUsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Controllers\\AboutUsController.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft Part2\\Controllers\\AboutUsController.cs",
+              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Controllers\\AboutUsController.cs",
+              "RelativeToolTip": "KhumaloCraft Part2\\Controllers\\AboutUsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:09:11.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Views\\User\\Create.cshtml",
               "RelativeDocumentMoniker": "KhumaloCraft Part2\\Views\\User\\Create.cshtml",
@@ -110,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Program.cs",
               "RelativeDocumentMoniker": "KhumaloCraft Part2\\Program.cs",
@@ -122,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Views\\Transaction\\Index.cshtml",
               "RelativeDocumentMoniker": "KhumaloCraft Part2\\Views\\Transaction\\Index.cshtml",
@@ -134,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "KhumaloCraft Part2\\Controllers\\TransactionController.cs",
@@ -147,7 +202,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/khumalocraftserver_st10249863.database.windows.net/aspnet_KhumaloCraft_Part2_25b0f46d_c32c_4335_b035_7ceaeabcf780/khumalocraftserver_admin/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-27T17:03:58.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\appsettings.json",
+              "RelativeDocumentMoniker": "KhumaloCraft Part2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\appsettings.json",
+              "RelativeToolTip": "KhumaloCraft Part2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T15:59:05.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/khumalocraftserver_st10249863.database.windows.net/aspnet_KhumaloCraft_Part2_25b0f46d_c32c_4335_b035_7ceaeabcf780/khumalocraftserver_admin/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-27T17:04:21.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "KhumaloCraft Part2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Models\\User.cs",
+              "RelativeToolTip": "KhumaloCraft Part2\\Models\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:09:55.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "KhumaloCraft Part2\\Views\\Shared\\_LoginPartial.cshtml",
@@ -159,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "KhumaloCraft Part2\\Controllers\\HomeController.cs",
@@ -171,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "KhumaloCraft Part2\\Controllers\\UserController.cs",
@@ -183,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "KhumaloCraft Part2",
               "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\KhumaloCraft Part2.csproj",
               "RelativeDocumentMoniker": "KhumaloCraft Part2\\KhumaloCraft Part2.csproj",
@@ -194,19 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\appsettings.json",
-              "RelativeDocumentMoniker": "KhumaloCraft Part2\\appsettings.json",
-              "ToolTip": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\appsettings.json",
-              "RelativeToolTip": "KhumaloCraft Part2\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-27T15:59:05.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Tiffany\\source\\repos\\KhumaloCraft Part2\\KhumaloCraft Part2\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "KhumaloCraft Part2\\Controllers\\ProductController.cs",
